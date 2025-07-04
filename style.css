@@ -1,0 +1,66 @@
+* {
+  background-color: #171752;
+  font-family: "Indie Flower", cursive;
+  color: #fff;
+}
+
+h1 {
+  margin-top: 1.9rem;
+  font-family: "Bitcount Grid Double", cursive;
+  font-weight: 300;
+  text-shadow: 4px 4px 4px #ad8b0f;
+  font-size: 6rem;
+  color: #195c60;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #ad8b0f;
+}
+
+img {
+  width: 75%; /*alteração de tamanho é a partir do tamanho default da IMG em si*/
+}
+
+footer {
+  text-align: center;
+  margin-top: 10%;
+}
+
+button {
+  width: 10%;
+  background-color: #34639b;
+  font-size: larger;
+  border-radius: 1rem;
+  border-color: #ad8b0f;
+}
+
+button:hover {
+  background-color: #ad8b0f;
+  border-color: #34639b;
+  }
+
+/*CLASSES*/
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+  margin: 0 1.25rem;
+}
+
+.reload {
+  text-align: center;
+  margin-top: 2%;
+}
+
+/*ID*/
+#github {
+  width: 1.55%;
+  vertical-align: middle;
+}
+
